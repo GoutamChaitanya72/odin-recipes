@@ -15,7 +15,42 @@ text-align: center;
 
 .recipes {
 
-font-size: 28px;
 font-family: Arial, Helvetica, Sans-serif;
+
+}
+
+.PB {
+
+font-size: 28px;
+display: block;
+background-color: #5DBB63
+color: red;
+padding: 7px;
+border: 3px;
+margin: 10px;
+
+}
+
+.SE {
+
+font-size: 28px;
+display: block;
+background-color: #CD5C5C;
+color: #5DBB63;
+padding: 7px;
+border: 3px;
+margin: 10px;
+
+}
+
+.ATV {
+
+font-size: 28px;
+display:block;
+background-color: #5DBB63
+color: red;
+padding: 7px;
+border: 3px;
+margin: 10px;
 
 }
